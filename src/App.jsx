@@ -98,12 +98,12 @@ function Item({ item, onDeleteItem, onToggleItem }) {
     </li>
   );
 }
-// function Stats() {
-//   return (
-//     <footer className="stats">
-//       You have 3 items on your list, and you already packed x
-//     </footer>
-//   );
-// }
+function Stats() {
+  return (
+    <footer className="stats">
+      You have 3 items on your list, and you already packed x
+    </footer>
+  );
+}
 
 export default App;
