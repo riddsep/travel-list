@@ -68,6 +68,8 @@ function Form({ onAddItems }) {
   );
 }
 function PackingList({ items, onDeleteItem, onToggleItem }) {
+  const [sortBy, setSortBy] = useState("input");
+
   return (
     <div className="list">
       <ul>
@@ -80,6 +82,13 @@ function PackingList({ items, onDeleteItem, onToggleItem }) {
           />
         ))}
       </ul>
+      {/* <div className="actions">
+        <select value={sortBy}>
+          <option value="input">Sorted by input order</option>
+          <option value="description">Sorted by desctiption</option>
+          <option value="packed">Sorted by packed status</option>
+        </select>
+      </div> */}
     </div>
   );
 }
