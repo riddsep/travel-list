@@ -53,7 +53,3 @@
 ## Kontribusi
 
 Kontribusi sangat terbuka! Jika Anda ingin menambahkan fitur atau memperbaiki bug, silakan buat pull request atau ajukan _issue_ terlebih dahulu.
-
-## Lisensi
-
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
