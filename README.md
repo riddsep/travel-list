@@ -49,7 +49,3 @@
    ```
 
 4. Buka di browser pada [http://localhost:3000](http://localhost:3000).
-
-## Kontribusi
-
-Kontribusi sangat terbuka! Jika Anda ingin menambahkan fitur atau memperbaiki bug, silakan buat pull request atau ajukan _issue_ terlebih dahulu.
